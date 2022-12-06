@@ -1,0 +1,13 @@
+C:\Users\Mariem\source\repos\MERGcode\MERGcode\bin\Debug\netcoreapp3.1\MERGcode.exe
+C:\Users\Mariem\source\repos\MERGcode\MERGcode\bin\Debug\netcoreapp3.1\MERGcode.deps.json
+C:\Users\Mariem\source\repos\MERGcode\MERGcode\bin\Debug\netcoreapp3.1\MERGcode.runtimeconfig.json
+C:\Users\Mariem\source\repos\MERGcode\MERGcode\bin\Debug\netcoreapp3.1\MERGcode.runtimeconfig.dev.json
+C:\Users\Mariem\source\repos\MERGcode\MERGcode\bin\Debug\netcoreapp3.1\MERGcode.dll
+C:\Users\Mariem\source\repos\MERGcode\MERGcode\bin\Debug\netcoreapp3.1\MERGcode.pdb
+C:\Users\Mariem\source\repos\MERGcode\MERGcode\obj\Debug\netcoreapp3.1\MERGcode.csprojAssemblyReference.cache
+C:\Users\Mariem\source\repos\MERGcode\MERGcode\obj\Debug\netcoreapp3.1\MERGcode.AssemblyInfoInputs.cache
+C:\Users\Mariem\source\repos\MERGcode\MERGcode\obj\Debug\netcoreapp3.1\MERGcode.AssemblyInfo.cs
+C:\Users\Mariem\source\repos\MERGcode\MERGcode\obj\Debug\netcoreapp3.1\MERGcode.csproj.CoreCompileInputs.cache
+C:\Users\Mariem\source\repos\MERGcode\MERGcode\obj\Debug\netcoreapp3.1\MERGcode.dll
+C:\Users\Mariem\source\repos\MERGcode\MERGcode\obj\Debug\netcoreapp3.1\MERGcode.pdb
+C:\Users\Mariem\source\repos\MERGcode\MERGcode\obj\Debug\netcoreapp3.1\MERGcode.genruntimeconfig.cache
